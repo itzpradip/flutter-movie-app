@@ -8,8 +8,11 @@ This is the first screen of the app where we have different sections for differe
 
 [Tutorial for this UI](https://www.youtube.com/watch?v=uK9q_IJxvPA)
 
+![Dashboard Screen](https://raw.githubusercontent.com/itzpradip/flutter-movie-app/master/dashboard-screen.png)
+
 ## Movie Details Screen
 
 This is the movie details screen where user can get more details about the movie.
 
+![Movie Details Screen](https://raw.githubusercontent.com/itzpradip/flutter-movie-app/master/movie-details-screen.png)
 
