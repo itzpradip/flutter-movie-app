@@ -14,5 +14,7 @@ This is the first screen of the app where we have different sections for differe
 
 This is the movie details screen where user can get more details about the movie.
 
+[Tutorial for this UI](https://www.youtube.com/watch?v=DqomJpTx8lY)
+
 ![Movie Details Screen](https://raw.githubusercontent.com/itzpradip/flutter-movie-app/master/movie-details-screen.png)
 
